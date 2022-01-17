@@ -1,0 +1,1 @@
+print('hallo the craft of selfteaching wolrd')
